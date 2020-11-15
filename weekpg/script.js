@@ -24,3 +24,11 @@ console.log("Her name is " + fullName );
 for(var count = 0; count <= 9; count++) {
     console.log(count);
 }
+
+// Whats your name?
+
+// Frida Knoph.
+
+// where are you from?
+
+// Oslo, Norway.
